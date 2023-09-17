@@ -1,5 +1,4 @@
-// schemas/index.js
-import about from './about'
-import pet from './pet'
+// schemas/index.js'
+import book from './book'
 
-export const schemaTypes = [about, pet]
+export const schemaTypes = [book]
